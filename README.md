@@ -1,5 +1,5 @@
 # CUBE_SOLVER
-this program takes user input of cube and solves it 
+
 Program to solve rubiks cube/rubiks cube copilot 
 
 This program makes use of a module named kociemba 
